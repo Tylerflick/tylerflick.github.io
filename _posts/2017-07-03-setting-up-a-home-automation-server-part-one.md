@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Setting up a home automation server - Part One
+title:      Creating a home automation system - Part One
 date:       2017-07-03
-summary:    Getting started with the Raspberry Pi 3
+summary:    Setting up the server
 categories: home-automation
 tags:       raspberry-pi mqtt rabbitmq home-automation
 ---
