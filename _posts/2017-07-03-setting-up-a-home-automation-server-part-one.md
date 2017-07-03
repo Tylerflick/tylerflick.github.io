@@ -4,7 +4,7 @@ title:      Setting up a home automation server - Part One
 date:       2017-07-03
 summary:    Getting started with the Raspberry Pi 3
 categories: home-automation
-tags:       [raspberry-pi, mqtt, rabbitmq, home-automation]
+tags:       raspberry-pi mqtt rabbitmq home-automation
 ---
 
 With the advent of the Raspberry Pi and cheap microcontroller's like the EPS8266, home automation has never been easier. This is the first installment of a number of guides I'm putting together based on setting up a home automation server, security and connecting with other services.
