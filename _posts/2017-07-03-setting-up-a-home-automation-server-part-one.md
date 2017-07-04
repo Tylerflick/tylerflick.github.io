@@ -73,7 +73,6 @@ Setting up the plugin for non encrypted communication is simple. Staying in Rabb
 
 1. Open the file `rabbitmq.config` for editing: `vim rabbitmq.config`
 2. Replace any existing configuration with the following:
-
 ~~~erlang
 [{rabbit,        [{tcp_listeners,    [5672]}]},  
  {rabbitmq_mqtt, [{default_user,     <<"guest">>},  
