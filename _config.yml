@@ -1,8 +1,8 @@
 # Site settings
-title:       TylerFlick
+title:       Tyler Hoeflicker
 email:       tyler.hoeflicker@gmail.com
 author:      Tyler Hoeflicker
-description: "A personal blog on software engineering."
+description: "A personal portfolio."
 baseurl:     ""
 url:         "http://www.tylerflick.com"
 date_format: "%b %-d, %Y"
