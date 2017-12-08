@@ -15,7 +15,7 @@ I live in the Los Angeles area, and enjoy exploring all the city has to offer. I
 I have a dog named Wall-E. He is kind of weird, and has an occasional underbite.
 
 ### My Background
-During the summer between my sophmore and junior years of college, I worked as a tower rigger replacing cell phone antennas. I also learned I have a fear of heights past a certain point.
+During the summer between my sophmore and junior years of college, I worked as a tower rigger replacing cell tower antennas. I also learned I have a fear of heights past a certain point.
 
 I earned my Bachelor's degree from the University of Missouri, where I spent much of my time studying embedded systems.
 
