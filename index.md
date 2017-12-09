@@ -21,7 +21,7 @@ I earned my Bachelor's degree from the University of Missouri, where I spent muc
 
 My first job after I completed my undergraduate degree was writing high-throughput services and desktop programs for an e-commerce business. I also learned Pascal while working in this role.
 
-After that, I transitioned to a new company writing PDF software. My first couple of years there were spent working on mobile apps, primarily for iOS. I'm currently working on a team focused on improving our document drawing speed, and have been spending time examining rasterization and image processing algorithms.
+After that, I transitioned to a new company developing PDF software. My first couple of years there were spent working on mobile apps, primarily for iOS. I'm currently serving on a team focused on improving our document drawing speed, and have been spending time examining rasterization and image processing algorithms.
 
 I still fiddle with embedded development, and have collected a closet full of components and PCB's I'll probably never use.
 
