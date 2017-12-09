@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/images/portrait.png" width="150" height="150" class="center">
+<img src="/images/portrait-small.png" class="center" alt="Personal Portrait">
 <br>
 
 ### About Me
