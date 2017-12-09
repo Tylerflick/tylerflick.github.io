@@ -8,7 +8,7 @@ tags: projects
 ### Utilities
 
 [ImageDiff](https://github.com/Tylerflick/ImageDiff)  
-A small commmand line app for macOS written in Swift. It uses a Metal compute shader to determine if two input images are different and if so, it outputs a difference image. I originally wrote this app to speed up testing the output of a document rasterizer against a baseline.
+A small commmand line app for macOS written in Swift. It uses a Metal compute shader to determine if two input images are different and if so, outputs a difference image. I originally wrote this app to speed up testing the output of a document rasterizer against a baseline.
 
 ### Services
 
