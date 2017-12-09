@@ -13,7 +13,7 @@ A small commmand line app for macOS written in Swift. It uses a Metal compute sh
 ### Services
 
 [go-bamboo](https://github.com/Tylerflick/go-bamboo)  
-go-bamboo is a library for polling Atlassian Bamboo Server builds. It's writen in Go, and written to serve as a small SDK for getting build results.
+go-bamboo is a library for polling Atlassian Bamboo Server builds. It's writen in Go, and built to serve as a small SDK for getting build results.
 
 
 ### Embedded
