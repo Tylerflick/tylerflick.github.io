@@ -8,7 +8,7 @@ layout: default
 ### About Me
 My name is Tyler Hoeflicker and I'm a software engineer. I have worked in a variety of fields, which include backend services, full stack web development, mobile apps, desktop programs and 2D graphics.
 
-I have years of experience working professionally with C# and .NET. I'm a big fan of Go and its simplicity. I use it where I can in my own projects.
+I have years of experience working professionally with C# and .NET. I'm a big fan of both Go and Swift and I use them where I can in my own projects.
 
 I live in the Los Angeles area, and enjoy exploring all the city has to offer. I'm an avid runner and hiker. Fitness is important to me, and when I'm not at work you can find me on a trail.
 
