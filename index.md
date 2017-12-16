@@ -12,7 +12,7 @@ I have years of experience working professionally with C# and .NET. I'm a big fa
 
 I live in the Los Angeles area, and enjoy exploring all the city has to offer. I'm an avid runner and hiker. Fitness is important to me, and when I'm not at work you can find me on a trail.
 
-I have a dog named Wall-E. He is kind of weird, eats things he shouldn't, loves traveling, and occasionaly shows his underbite.
+I have a dog named Wall-E. He is kind of weird, eats things he shouldn't, loves traveling, and occasionally shows his underbite.
 
 ### My Background
 During the summer between my sophmore and junior years of college, I worked as a tower rigger replacing cell tower antennas. I learned I have a fear of heights past a certain point.
