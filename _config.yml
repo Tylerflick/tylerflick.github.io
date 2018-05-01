@@ -4,7 +4,7 @@ email:       tyler.hoeflicker@gmail.com
 author:      Tyler Hoeflicker
 description: "A personal portfolio."
 baseurl:     ""
-url:         "http://www.tylerflick.com"
+url:         "https://www.tylerflick.com"
 date_format: "%b %-d, %Y"
 
 # Google services
